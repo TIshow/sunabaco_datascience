@@ -1,0 +1,2 @@
+# sunabaco_datascience
+SUNABACOで行ったAI講座関係の資料置き場。
